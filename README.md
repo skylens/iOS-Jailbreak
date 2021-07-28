@@ -7,3 +7,13 @@
 ## 越狱安装软件
 
 + [Clutch](https://github.com/KJCracks/Clutch)
+
+## Cydia 
+
+### 源
+
+[https://build.frida.re](https://build.frida.re]
+
+### 插件
+
+
